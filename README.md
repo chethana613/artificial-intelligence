@@ -1,1 +1,1 @@
-# Course term Projects and Readings
+# AI Course term Projects and Readings
